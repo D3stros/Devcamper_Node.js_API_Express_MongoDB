@@ -1,3 +1,4 @@
 #Ignore folder devcamper_project_resources
 
 devcamper_project_resources/
+node_modules
